@@ -23,7 +23,7 @@ This project focuses on analyzing the business performance of **AtliQ Grands**, 
 ## 📁 Contents
 
 - `datasets/` – Contains the raw datasets used (CSV files).
--  – Jupyter notebook for EDA, visualization, and transformation.
+- "https://github.com/ritoja02/Hospitality-domain-project-EDA-python/blob/main/Data_exploration_and_transformation.ipynb" – Jupyter notebook for EDA, visualization, and transformation.
 - `README.md` – Project overview and objectives (this file).
 
 ---
